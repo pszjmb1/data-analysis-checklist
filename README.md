@@ -1,4 +1,4 @@
-# data-analysis-checklist-
+# data-analysis-checklist
 The checklist from [Jeff Leek's book](https://leanpub.com/datastyle) "Elements of Data Analytic Style" for guiding and evaluating data analyses. This checklist is a direct copy from [here](http://simplystatistics.org/2015/03/03/the-elements-of-data-analytic-style-so-much-for-a-soft-launch "Jeff Leek's launch blog post").
 
 I Answering the question
